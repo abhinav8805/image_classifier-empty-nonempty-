@@ -10,8 +10,8 @@ from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score
 
 
-# prepare data
-input_dir = 'C:/Users/BIT/Documents/pps/ml_practice/computer vision/image_classification/clf-data'
+# preparation of data
+input_dir = 'C:/Users/BIT/Documents/pps/ml_practice/computer vision/image_classification/clf-data'  #enter file location
 categories = ['empty', 'not_empty']
 
 data = []
